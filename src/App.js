@@ -87,7 +87,7 @@ class App extends Component {
                         fontWeight: "bolder",
                     }}
                 >
-                    AasaithambiCloudOps - TODO LIST
+                    AasaithambiDevOpsOps - TODO LIST
                 </Row>
   
                 <hr />
